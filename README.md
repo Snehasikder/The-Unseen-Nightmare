@@ -27,12 +27,6 @@
 
 ---
 
-## 📁 How to View Locally
-1. Download or clone the repository
-2. Open `index.html` in your browser — no extra steps needed
-
----
-
 ### ☁️ About This Project
 *The Unseen Nightmare* is a creative experiment exploring storytelling through design. It’s not a horror story in the traditional sense — instead, it plays with **atmosphere, disorientation, and memory**, conveyed through gentle, immersive visuals and layered narrative elements. Think of it as a psychological dream rendered in code.
 
